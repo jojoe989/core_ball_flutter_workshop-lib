@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435180760582",
+    "firebase_url": "https://core-ball-flutter-workshop.firebaseio.com",
+    "project_id": "core-ball-flutter-workshop",
+    "storage_bucket": "core-ball-flutter-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435180760582:android:55b738c454ff0849",
+        "android_client_info": {
+          "package_name": "com.example.core_ball_flutter_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435180760582-jksltkh95gk8p2dlec0bhjf9g14a1d2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWrc3LNQuTfftNEDjPl7D8vh44e3bzk2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
